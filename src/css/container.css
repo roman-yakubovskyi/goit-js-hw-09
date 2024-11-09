@@ -17,3 +17,19 @@
     max-width: 1200px;
   }
 }
+
+/* Gallery */
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.gallery-image {
+  width: 360px;
+}
+.gallery-home {
+  font-weight: 700;
+  font-size: 24px;
+  color: rgb(21, 8, 200);
+  margin-bottom: 4px;
+}
